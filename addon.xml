@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.libka-beta" name="Libka Core Repository (BETA)" version="0.1" provider-name="libka-team">
+<addon id="repository.libka-beta" name="Libka Core Repository (BETA)" version="0.2" provider-name="libka-team">
 	<extension point="xbmc.addon.repository" name="Libka Core Repository (BETA)">
 		<dir minversion="18.9.701">
 			<info compressed="false">https://zip.libka.pl/dists/beta/19/addons.xml</info>
